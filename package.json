@@ -43,6 +43,7 @@
   },
   "dependencies": {
     "@types/escpos": "^2.5.2",
-    "escpos": "^3.0.0-alpha.6"
+    "escpos": "^3.0.0-alpha.6",
+    "escpos-serialport": "latest"
   }
 }
