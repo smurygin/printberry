@@ -43,8 +43,11 @@
   },
   "dependencies": {
     "@types/escpos": "^2.5.2",
-    "escpos": "^3.0.0-alpha.6",
-    "escpos-serialport": "^3.0.0-alpha.4",
-    "escpos-usb": "^3.0.0-alpha.4"
+    "escpos": "^2.4.4",
+    "escpos-serialport": "^2.4.4",
+    "escpos-usb": "^2.4.4"
+  },
+  "resolutions": {
+    "escpos/serialport": "9.2.8"
   }
 }
